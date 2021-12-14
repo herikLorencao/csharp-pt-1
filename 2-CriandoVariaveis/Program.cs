@@ -14,7 +14,7 @@ namespace _2_CriandoVariaveis
             Console.WriteLine(idade);
 
             int idade2 = 30;
-            Console.WriteLine(idade2);
+            Console.WriteLine("A idade é " + idade2);
 
             Console.WriteLine("Tecle enter para sair ...");
             Console.ReadLine();
